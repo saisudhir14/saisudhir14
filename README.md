@@ -1,8 +1,6 @@
-### Hi there 👋, I'm Sudhir!
-#### A Full Stack Web Developer
 ![A Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C561BAQEUTj_4I-fzJg/company-background_10000/0?e=2159024400&v=beta&t=ruawNuGMCiCJ15QAVo500lGifLXYFz-5EmGCI2aJhGM)
 
-I'm Sudhir! I work as a Full Stack Web developer.I really enjoy learning languages such as JavaScript,Java and frameworks such as React, Spring Core,Spring MVC and Spring ORM frameworks.
+### Hi there 👋, I'm Sudhir! I work as a Full Stack Web developer.I really enjoy learning languages such as JavaScript,Java and frameworks such as React, Spring Core,Spring MVC and Spring ORM frameworks.
 
 I like to work and explore on cloud too! I'm an AWS Certified Solution Architect
 

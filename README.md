@@ -20,6 +20,6 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-
+- [What is Identity and Access Management in AWS?](https://sudhirdontha.hashnode.dev/what-is-identity-and-access-management-in-aws-ckhelkgyk04g2zms1d8hr97l0)
 <!-- HASHNODE_BLOG:END -->
 

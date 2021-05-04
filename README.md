@@ -1,5 +1,12 @@
 ![A Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C561BAQEUTj_4I-fzJg/company-background_10000/0?e=2159024400&v=beta&t=ruawNuGMCiCJ15QAVo500lGifLXYFz-5EmGCI2aJhGM)
 
+<!---
+- 👋 Hi, I’m @currently-not-available
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
 ### Hi there! 👋
 
 ### I'm Sudhir! I work as a Full Stack Web developer.I really enjoy learning languages such as JavaScript,Java and frameworks such as React, Spring Core,Spring MVC.
@@ -11,7 +18,7 @@
 
 - 🔭 I’m currently working on AWS 
  
-- 💬 Ask me about Web development , JavaScript , Java ,Spring Fameworks , 
+- 💬 Ask me about Web development , JavaScript,Java,Spring Famework and AWS Cloud.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  

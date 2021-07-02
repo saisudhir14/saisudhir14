@@ -13,7 +13,7 @@
 
 ### I like to work and explore on cloud too! I'm an AWS Certified Solution Architect
 
-### Skills: JavaScript/ Java / HTML / CSS / Spring Frameworks / AWS Cloud
+### Skills: JavaScript,Java,HTML ,CSS,Spring Framework,MySQL,MS SQL, AWS Cloud
 
 
 - 🔭 I’m currently working on AWS 

@@ -28,7 +28,6 @@
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
- (Automated uploads)
 - [How does Microsoft Azure work?](https://sudhirdontha.hashnode.dev/how-does-microsoft-azure-work-ckq9wrc3f01tvm0s1960ge1u1)
 - [What is IAM? 
 AWS Cloud](https://sudhirdontha.hashnode.dev/what-is-iam-aws-cloud-ckiue2r7g0emr33s11ja68kdn)

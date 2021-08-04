@@ -1,4 +1,4 @@
-![A Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C561BAQEUTj_4I-fzJg/company-background_10000/0?e=2159024400&v=beta&t=ruawNuGMCiCJ15QAVo500lGifLXYFz-5EmGCI2aJhGM)
+<!-- ![A Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C561BAQEUTj_4I-fzJg/company-background_10000/0?e=2159024400&v=beta&t=ruawNuGMCiCJ15QAVo500lGifLXYFz-5EmGCI2aJhGM) >
 
 <!---
 - 👋 Hi, I’m @currently-not-available

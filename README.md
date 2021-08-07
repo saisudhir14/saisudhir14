@@ -20,11 +20,9 @@
  
 - 💬 Ask me about Web development , JavaScript,Java,Spring Famework and AWS Cloud.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+<!--
+[<a Href='https://www.linkedin.com/in/sudhirdontha/' alt='Linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>-->
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->

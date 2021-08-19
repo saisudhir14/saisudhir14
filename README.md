@@ -34,4 +34,7 @@ part 2!](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-2-ckisuh7ii05cb33s1
 - [PWA in brief! (Progressive Web App)
 part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1go6v4cqh)
 <!-- HASHNODE_BLOG:END -->
+## My Latest Blog Posts on Dev.to👇
+<!--BLOG-POST-LIST:START-->
+<!--BLOG-POST-LIST:END-->
 

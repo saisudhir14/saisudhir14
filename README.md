@@ -13,12 +13,12 @@
 
 ### I like to work and explore on cloud too! I'm an AWS Certified Solution Architect
 
-### Skills: JavaScript,Java,HTML ,CSS,Spring Framework,MySQL,MS SQL, AWS Cloud
+### Skills: JavaScript, Java, HTML, CSS, Spring Framework, MySQL, SQL Server, Microsoft Azure, AWS Cloud
 
 
-- 🔭 I’m currently working on AWS 
+<!-- - 🔭 I’m currently working on AWS -->
  
-- 💬 Ask me about Web development , JavaScript,Java,Spring Famework and AWS Cloud.
+- 💬 Ask me about Web development , JavaScript,Java,Spring Famework, Microsoft Azure and AWS Cloud.
 
 <!--
 [<a Href='https://www.linkedin.com/in/sudhirdontha/' alt='Linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  

@@ -43,5 +43,6 @@ part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1g
 <!--[![Latest blog post workflow](https://github.com/saisudhir14/saisudhir14/actions/workflows/blog_devto.yml/badge.svg)](https://github.com/saisudhir14/saisudhir14/actions/workflows/blog_devto.yml) -->
 <!--BLOG-POST-LIST:END-->
 
-
-
+<html>
+Linkedin<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="sudhirdontha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sudhirdontha?trk=profile-badge">Sudhir Dontha</a></div>
+</html>

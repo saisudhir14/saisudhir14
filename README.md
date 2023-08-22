@@ -9,16 +9,16 @@
 --->
 ### Hi there! 👋
 
-### I'm Sudhir! I work as a Full Stack Engineer.I really enjoy learning languages such as JavaScript,Java and frameworks such as React, Spring Core,Spring MVC.
+### I'm Sudhir! I work as a Full Stack Engineer.I really enjoy working on JavaScript,Java and on frameworks such as React, Spring Core,Spring MVC.
 
-### I like to work and explore on cloud too! I'm an AWS Certified Solution Architect
+### I like to work and explore on cloud too! I'm an AWS Certified Solution Architect and Certified by Microsoft Azure - AZ-900, DP-900.
 
 ### Skills: JavaScript, Java, HTML, CSS, Spring Framework, MySQL, SQL Server, Microsoft Azure, AWS Cloud
 
 
 <!-- - 🔭 I’m currently working on AWS -->
  
-- 💬 Ask me about Web development , JavaScript,Java,Spring Famework, Microsoft Azure and AWS Cloud.
+- 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud.
 
 <!--
 [<a Href='https://www.linkedin.com/in/sudhirdontha/' alt='Linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  

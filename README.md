@@ -13,7 +13,7 @@
 
 ### I like to work and explore on cloud too! I'm an AWS Certified Solution Architect and Certified by Microsoft Azure - AZ-900, DP-900.
 
-### Skills: JavaScript, Java, HTML, CSS, Spring Framework, MySQL, SQL Server, Microsoft Azure, AWS Cloud
+### Skills: JavaScript, Java, HTML, CSS, Spring Framework, MySQL, SQL Server, Microsoft Azure, AWS Cloud , SAP ERP, SAP ABAP
 
 
 <!-- - 🔭 I’m currently working on AWS -->

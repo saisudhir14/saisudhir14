@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://github.com/saisudhir14">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saisudhir14&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saisudhir14&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saisudhir14&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>

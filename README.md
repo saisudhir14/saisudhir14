@@ -20,6 +20,15 @@
  
 - 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud.
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/saisudhir14">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saisudhir14&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saisudhir14&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
 <!--
 [<a Href='https://www.linkedin.com/in/sudhirdontha/' alt='Linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>-->
@@ -44,5 +53,8 @@ part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1g
 <!--BLOG-POST-LIST:END-->
 
 <html>
-Linkedin<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="sudhirdontha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sudhirdontha?trk=profile-badge">Sudhir Dontha</a></div>
+ <a href="https://linkedin.com/in/saisudhir14"> LinkedIn
+ <!--
+ <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+ -->
 </html>

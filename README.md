@@ -7,20 +7,24 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-### Hi there! 👋
+## Hey 👋, I'm [Sudhir Dontha!](https://linkedin.com/in/sudhirdontha) and you've reached my Dev space on the WWW :)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhirdontha)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudhir2502)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sudhirdontha)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sudhirdontha.hashnode.dev/)
 
-### I'm Sudhir! I work as a Full Stack Engineer.I really enjoy working on JavaScript,Java and on frameworks such as React, Spring Core,Spring MVC.
+I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/information-systems-ms). Also, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
-### I like to work and explore on cloud too! I'm an AWS Certified Solution Architect and Certified by Microsoft Azure - AZ-900, DP-900.
+<b>Educational research and major:</b> R programming, Tableau, SAP ABAP, Data Analytics, Python, SQL, SAP ERP
 
-### Skills: JavaScript, Java, HTML, CSS, Spring Framework, MySQL, SQL Server, Microsoft Azure, AWS Cloud , SAP ERP, SAP ABAP
-
+<b>Professional experience:</b>
+<b>Skills: </b> JavaScript, HTML, CSS, MySQL, SQL Server,Microsoft Azure, AWS Cloud, Java, Spring Framework, 
 
 <!-- - 🔭 I’m currently working on AWS -->
  
 - 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud.
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/saisudhir14">
@@ -57,9 +61,9 @@ part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1g
 <!--BLOG-POST-LIST:START-->
 <!--[![Latest blog post workflow](https://github.com/saisudhir14/saisudhir14/actions/workflows/blog_devto.yml/badge.svg)](https://github.com/saisudhir14/saisudhir14/actions/workflows/blog_devto.yml) -->
 <!--BLOG-POST-LIST:END-->
-
+<!--
 <html>
- <a href="https://linkedin.com/in/saisudhir14"> LinkedIn
+ <a href="https://linkedin.com/in/saisudhir14"> LinkedIn -->
  <!--
  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
  -->

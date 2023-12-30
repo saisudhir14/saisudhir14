@@ -28,12 +28,12 @@ I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/inf
 
 
 
-
+✨ Recent projects that I've worked on:
   - [Sales Data Analysis using R-programming](https://github.com/saisudhir14/r-final-term-project): Analyzed and interpreted sales data through comprehensive visualizations and statistical analysis using R.
   - [Analyzing and Visualizing Psychological Regions of the United States and Their Correlates](https://github.com/saisudhir14/R-project-2): Explored the psychological landscape of different U.S. regions and identified correlations using R
   - [Coal Data Consumption R-project](https://github.com/saisudhir14/coal-Data-Consumption-R-project) : I have investigated the patterns and trends in coal consumption data using R, aiming to provide insights into the dynamics of coal consumption over time.
     
-   ✨ My Tableau visualizations...
+   ✨ My Tableau visualizations:
   - [Tableau Public visualizations](https://public.tableau.com/app/profile/sudhirdontha/) : I have shared my Tableau learnings here in this space.
 &nbsp;
 #### ⚙️ GitHub Analytics

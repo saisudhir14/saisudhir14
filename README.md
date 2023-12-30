@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 --->
 ## Hey 👋, I'm [Sudhir Dontha!](https://linkedin.com/in/sudhirdontha) and you've reached my Dev space on the WWW :)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhirdontha)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhirdontha) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudhir2502)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sudhirdontha)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sudhirdontha.hashnode.dev/)
@@ -24,8 +24,19 @@ I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/inf
  
 - 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud.
 
-#### ⚙️ &nbsp;GitHub Analytics
+&nbsp;
 
+
+
+
+  - [Sales Data Analysis using R-programming](https://github.com/saisudhir14/r-final-term-project): Analyzed and interpreted sales data through comprehensive visualizations and statistical analysis using R.
+  - [Analyzing and Visualizing Psychological Regions of the United States and Their Correlates](https://github.com/saisudhir14/R-project-2): Explored the psychological landscape of different U.S. regions and identified correlations using R
+  - [Coal Data Consumption R-project](https://github.com/saisudhir14/coal-Data-Consumption-R-project) : I have investigated the patterns and trends in coal consumption data using R, aiming to provide insights into the dynamics of coal consumption over time.
+    
+   ✨ My Tableau visualizations...
+  - [Tableau Public visualizations](https://public.tableau.com/app/profile/sudhirdontha/) : I have shared my Tableau learnings here in this space.
+&nbsp;
+#### ⚙️ GitHub Analytics
 <p align="left">
 <a href="https://github.com/saisudhir14">
 <!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saisudhir14&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> -->

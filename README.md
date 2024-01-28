@@ -11,7 +11,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhirdontha) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudhir2502)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sudhirdontha)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sudhirdontha.hashnode.dev/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sudhirdontha.hashnode.dev/) 
+&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=saisudhir14)
 
 I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/information-systems-ms). Also, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
@@ -21,11 +22,12 @@ I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/inf
 <b>Skills: </b> JavaScript, HTML, CSS, MySQL, SQL Server,Microsoft Azure, AWS Cloud, Java, Spring Framework, 
 
 <!-- - 🔭 I’m currently working on AWS -->
- 
-- 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud.
 
+
+- 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud. <br> <br>
+*   Also, <em>I'm always active here on this platform, feel free to raise an issue here: [feel free to raise an issue or ask me here](https://github.com/saisudhir14/ama/issues/new) Thank you!</em> 
 &nbsp;
-
+<br>
 
 
 ✨ Recent projects that I've worked on:
@@ -35,16 +37,18 @@ I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/inf
     
    ✨ My Tableau visualizations:
   - [Tableau Public visualizations](https://public.tableau.com/app/profile/sudhirdontha/) : I have shared my Tableau learnings here in this space.
-&nbsp;
+
+<!--
 #### ⚙️ GitHub Analytics
 <p align="left">
 <a href="https://github.com/saisudhir14">
 <!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saisudhir14&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> -->
+  <!--
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saisudhir14&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
-
+-->
 <!--[![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisudhir14&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## LeetCode ([profile](https://leetcode.com/sudhir02))
@@ -54,10 +58,10 @@ I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/inf
 <!-- [<a Href='https://www.linkedin.com/in/sudhirdontha/' alt='Linkedin' height='40'>](https://www.linkedin.com/in/sudhirdontha/)  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'> -->
  
- 
- ![](https://komarev.com/ghpvc/?username=saisudhir14)
- 
-## My Latest Blog Posts on Hashnode👇
+
+
+<b> My Latest Blog Posts on Hashnode👇</b>
+<br>
 <!-- HASHNODE_BLOG:START -->
 - [How does Microsoft Azure work?](https://sudhirdontha.hashnode.dev/how-does-microsoft-azure-work-ckq9wrc3f01tvm0s1960ge1u1)
 - [What is IAM? 

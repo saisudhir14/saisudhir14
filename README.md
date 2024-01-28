@@ -25,7 +25,7 @@ I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/inf
 
 
 - 💬 Ask me about Web development, JavaScript,Java,Spring Famework, SQL Database, Microsoft Azure and AWS Cloud. <br> <br>
-*   Also, <em>I'm always active here on this platform, feel free to raise an issue here: [feel free to raise an issue or ask me here](https://github.com/saisudhir14/ama/issues/new) Thank you!</em> 
+*   Also, <em>I'm always active here on this platform, [feel free to raise an issue or ask me here](https://github.com/saisudhir14/ama/issues/new) Thank you!</em> 
 &nbsp;
 <br>
 

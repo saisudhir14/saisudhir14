@@ -14,7 +14,7 @@
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sudhirdontha.hashnode.dev/) 
 &nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=saisudhir14)
 
-I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/program/information-systems-ms). Also, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
+I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/about). Also, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
 <b>Educational research and major:</b> R programming, Tableau, SAP ABAP, Data Analytics, Python, SQL, SAP ERP
 

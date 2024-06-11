@@ -12,7 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sudhir2502)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sudhirdontha)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sudhirdontha.hashnode.dev/) 
-&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=saisudhir14)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=saisudhir14)--->
 
 I'm a Student at [Central Michigan Unviersity](https://www.cmich.edu/about). Also, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 

@@ -7,21 +7,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-## Hey 👋, I'm [Sai Sudheer!](https://linkedin.com/in/saisudheer92) and you've reached my Dev space on the WWW :)
+## Hey 👋, I'm [Sai Sudheer!](https://linkedin.com/in/sudhirdontha) and you've reached my Dev space on the WWW :)
 
-# 🌟 Frontend Developer - UI/UX Designer & Product Design Expert
 
-Welcome to my GitHub profile! I'm a passionate UI/UX designer with over a decade of experience in creating intuitive and engaging digital experiences. My journey in the design world has taken me through various industries, including finance, banking, and airlines, where I've honed my skills in crafting user-centered designs that drive results.
 
-## 🎨 About Me
-
-- **Name:** Sai Sudheer
-- **Email:** dsaisudheer72@gmail.com
-- **LinkedIn:** www.linkedin.com/in/saisudheer92
-
+<!--
 With a keen eye for detail and a deep understanding of user behavior, I strive to create designs that are not only aesthetically pleasing but also functional and accessible. My expertise lies in bridging the gap between users and technology, ensuring seamless interactions and delightful experiences.
+-->
 
+
+<!--
 ## 🛠 Skills & Expertise
+-->
+
+<!--
 
 - **User Interface Design (UI)**
 - **User Experience Design (UX)**
@@ -32,42 +31,14 @@ With a keen eye for detail and a deep understanding of user behavior, I strive t
 - **Visual Design**
 - **Design Systems & Guidelines**
 
-## 🚀 Industries & Experience
+-->
 
-I have had the privilege of working with some of the leading companies in the following industries, where I've contributed to transforming complex ideas into user-friendly solutions
+<!-- ## 🚀 Industries & Experience -->
 
-## 📂 Featured Projects
 
-Here are some of the projects I'm proud of:
+<!-- ## 📂 Featured Projects -->
 
-### 1. Flagstar bank
-- **Industry:** Banking
-- **Role:** Lead Frontend Developer
 
-### 2. Delta Airlines
-- **Industry:** Airlines
-- **Role:** Senior Frontend developer
-
-### 3. Credit Suise
-- **Industry:** Investment Banking
-- **Role:** Senior UI Developer
-
-### 4. Accolite - Product Based Company
-- **Industry:** Product
-- **Role:** UI Developer
-
-## 📈 Design Philosophy
-
-I believe that great design is the perfect blend of creativity and functionality. My approach to design is user-centric, focusing on understanding the needs and behaviors of users to create solutions that are not only visually appealing but also intuitive and efficient.
-
-## 🌐 Connect with Me
-
-I'm always open to discussing design, technology, and collaboration opportunities. Feel free to reach out to me through any of the platforms below:
-
-- **Email:** dsaisudheer72@gmail.com
-- **LinkedIn:** https://linkedin.com/in/saisudheer92
-
-Thank you for visiting my GitHub profile! I look forward to connecting with fellow designers, developers, and innovators.
 <!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhirdontha)  -->
 
 <!--
@@ -141,7 +112,10 @@ part 2!](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-2-ckisuh7ii05cb33s1
 part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1go6v4cqh)
 ![image](https://user-images.githubusercontent.com/55187887/230750277-9604e5f6-354a-4629-8d61-867bf4f1fcb1.png)
 --->
+<!--
 Thank you for visiting my GitHub profile. I hope you find my projects and contributions. Stay curious, keep exploring, and let's make a positive impact together! 👍
+-->
+
 <!-- HASHNODE_BLOG:END -->
 <!--## My Latest Blog Posts on Dev.to👇 -->
 <!--BLOG-POST-LIST:START-->

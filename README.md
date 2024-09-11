@@ -7,8 +7,89 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-## Hey 👋, I'm [Sai Sudheer!](https://linkedin.com/in/sudhirdontha) and you've reached my Dev space on the WWW :)
+## Hey 👋, I'm Sai Sudheer and you've reached my Dev space on the WWW :)
+<!---
+# 🌟 Hi, I'm [Your Name] 🌟--->
 
+Welcome to my GitHub profile! I'm a passionate software engineer with over 5 years of experience in the IT industry. My expertise spans across multiple technologies and domains, including Go, HTML, CSS, JavaScript, and React. I hold a Master's degree in Information Systems with a specialization in Business Data Analytics, complemented by a Bachelor's in Computer Science.
+
+I'm always active here on this platform, [please feel free to raise an issue or ask me here, ](https://github.com/saisudhir14/ama/issues/new) thank you!
+
+
+## 🚀 About Me
+
+- **🔧 Technologies & Skills:**
+  - **Programming Languages:** Go, JavaScript
+  - **Frontend:** HTML, CSS, React
+  - **Backend:** Go
+  - **Data Analytics:** SQL, Python
+  - **Version Control:** Git, GitHub
+  - **Cloud:** AWS, Azure
+
+- **🎓 Education:**
+  - **Master's in Information Systems** (Specialized in Data Analytics)
+  - **Bachelor's in Computer Science**
+
+- **💼 Professional Experience:**
+  - **5+ years** in IT, with a strong background in both frontend and backend development.
+  - Volunteered with [Firm Name] to develop and maintain React-based frontend applications.
+
+- **🌍 Interests:**
+  - Exploring new technologies and tools
+  - Data-driven decision making
+  - Open-source contributions
+  <br>
+
+## 📈 Contributions
+
+I'm actively contributing to the [Bear Brown Inc's](https://www.nikbearbrown.com/#home) project currently,  [Kanban-board](https://github.com/mananrg/Frontend_Kanban) and I like participating in the developer community. Check out my contributions to various repositories and feel free to reach out if you have any questions or collaboration ideas!
+<br>
+
+## 📂 Projects
+<!--
+Here are some of the projects I’m currently working on:
+
+-->
+Feel free to explore my repositories and check out my code. I am always open to collaboration and learning opportunities!
+✨ Recent projects that I've worked on:
+  - [Sales Data Analysis using R-programming and Shiny App ](https://github.com/saisudhir14/r-final-term-project): Analyzed and interpreted sales data through comprehensive visualizations and statistical analysis using R. Also developed a <em>Shiny Application</em> which shows all the visualizations, statistics and analysis based on Sales Data
+  - [Analyzing and Visualizing Psychological Regions of the United States and Their Correlates](https://github.com/saisudhir14/R-project-2): Explored the psychological landscape of different U.S. regions and identified correlations using R
+  - [Coal Data Consumption R-project](https://github.com/saisudhir14/coal-Data-Consumption-R-project) : I have investigated the patterns and trends in coal consumption data using R, aiming to provide insights into the dynamics of coal consumption over time.
+    
+   ✨ My Tableau visualizations:
+  - [Tableau Public visualizations](https://public.tableau.com/app/profile/sudhirdontha/) : I have shared my Tableau learnings here in this space.
+
+
+<b> My Latest Blog Posts on Hashnode👇</b> 
+<br>
+<!-- HASHNODE_BLOG:START -->
+
+- [How does Microsoft Azure work?](https://sudhirdontha.hashnode.dev/how-does-microsoft-azure-work-ckq9wrc3f01tvm0s1960ge1u1)
+- [What is IAM? 
+AWS Cloud](https://sudhirdontha.hashnode.dev/what-is-iam-aws-cloud-ckiue2r7g0emr33s11ja68kdn)
+- [PWA in brief : 
+part 2!](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-2-ckisuh7ii05cb33s12bgmavyi)
+- [PWA in brief! (Progressive Web App)
+part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1go6v4cqh)
+![image](https://user-images.githubusercontent.com/55187887/230750277-9604e5f6-354a-4629-8d61-867bf4f1fcb1.png)
+
+<!--
+## 🛠️ Technologies I Use
+
+- **Go** for efficient and scalable backend solutions.
+- **React** for building interactive and dynamic user interfaces.
+- **HTML/CSS/JavaScript** for creating engaging and responsive web pages.
+- **SQL/Python** for data analysis and insights.
+-->
+
+<!--
+## 📫 Contact Me
+
+- **LinkedIn:** [Your LinkedIn Profile](link-to-your-linkedin-profile)
+- **Email:** [your-email@example.com]
+- **Twitter:** [@YourTwitterHandle](link-to-your-twitter-profile)
+-->
+Thank you for visiting my profile! 🌟
 
 
 <!--

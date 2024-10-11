@@ -11,7 +11,7 @@
 <!---
 # 🌟 Hi, I'm [Your Name] 🌟--->
 
-Welcome to my GitHub profile! I'm a passionate software engineer with over 5 years of experience in the IT industry. My expertise spans across multiple technologies and domains, including Go, HTML, CSS, JavaScript, and React. I hold a Master's degree in Information Systems with a specialization in Business Data Analytics, complemented by a Bachelor's in Computer Science.
+Welcome to my GitHub profile! I'm a passionate software engineer skilled in Frontend, FullStack, DB & Cloud. My expertise spans across multiple technologies and domains, including Go, HTML, CSS, JavaScript, and React. I hold a Master's degree in Information Systems with a specialization in Business Data Analytics, complemented by a Bachelor's in Computer Science.
 
 I'm always active here on this platform, [please feel free to raise an issue or ask me here, ](https://github.com/saisudhir14/ama/issues/new) thank you!
 
@@ -27,15 +27,15 @@ I'm always active here on this platform, [please feel free to raise an issue or 
   - **Cloud:** AWS, Azure
 
 - **🎓 Education:**
-  - **Master's in Information Systems** (Specialized in Data Analytics)
+  - **Master's in Information Systems**
   - **Bachelor's in Computer Science**
-
+<!--
 - **💼 Professional Experience:**
   - **5+ years** in IT, with a strong background in both frontend and backend development.
   - Volunteered with [Firm Name] to develop and maintain React-based frontend applications.
-
+-->
 - **🌍 Interests:**
-  - Exploring new technologies and tools
+  - Exploring new technologies and tools like Cursor, LLM's, Hugging Face
   - Data-driven decision making
   - Open-source contributions
   <br>
@@ -45,11 +45,15 @@ I'm always active here on this platform, [please feel free to raise an issue or 
 I'm actively contributing to the [Bear Brown Inc's](https://www.nikbearbrown.com/#home) project currently,  [Kanban-board](https://github.com/mananrg/Frontend_Kanban) and I like participating in the developer community. Check out my contributions to various repositories and feel free to reach out if you have any questions or collaboration ideas!
 <br>
 
-## 📂 Projects
+
 <!--
 Here are some of the projects I’m currently working on:
 
 -->
+
+<!--
+## 📂 Projects
+
 Feel free to explore my repositories and check out my code. I am always open to collaboration and learning opportunities!
 ✨ Recent projects that I've worked on:
   - [Sales Data Analysis using R-programming and Shiny App ](https://github.com/saisudhir14/r-final-term-project): Analyzed and interpreted sales data through comprehensive visualizations and statistical analysis using R. Also developed a <em>Shiny Application</em> which shows all the visualizations, statistics and analysis based on Sales Data
@@ -58,7 +62,7 @@ Feel free to explore my repositories and check out my code. I am always open to 
     
    ✨ My Tableau visualizations:
   - [Tableau Public visualizations](https://public.tableau.com/app/profile/sudhirdontha/) : I have shared my Tableau learnings here in this space.
-
+-->
 
 <b> My Latest Blog Posts on Hashnode👇</b> 
 <br>

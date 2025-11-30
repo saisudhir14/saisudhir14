@@ -24,10 +24,10 @@ I'm always active here on this platform, [please feel free to raise an issue or 
   - **Backend:** Go
   - **Data Analytics:** SQL, Python
   - **Version Control:** Git, GitHub
-  - **Cloud:** AWS, Azure
+  - **Cloud:** GCP, Azure, AWS
 
 - **🎓 Education:**
-  - **Master's in Information Systems**
+  - **Master of Science in Information Systems**
   - **Bachelor's in Computer Science**
 <!--
 - **💼 Professional Experience:**

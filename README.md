@@ -16,12 +16,12 @@ Welcome to my GitHub profile! I'm a passionate software engineer skilled in Fron
 I'm always active here on this platform, [please feel free to raise an issue or ask me here, ](https://github.com/saisudhir14/ama/issues/new) thank you!
 
 
-## 🚀 About Me
+##  About Me
 
 - **🔧 Technologies & Skills:**
-  - **Programming Languages:** Go, JavaScript
-  - **Frontend:** HTML, CSS, React
-  - **Backend:** Go
+  - **Backend Programming :** Go(Golang), Java, JavaScript
+  - **Frontend:** HTML, CSS, React, TypeScript
+  - **AI:** MCP, Cursor, Claude, Prompt Engineering, Langchain
   - **Data Analytics:** SQL, Python
   - **Version Control:** Git, GitHub
   - **Cloud:** GCP, Azure, AWS
@@ -37,7 +37,9 @@ I'm always active here on this platform, [please feel free to raise an issue or 
 - **🌍 Interests:**
   - Exploring new technologies and tools like Cursor, LLM's, Hugging Face
   - Data-driven decision making
-  - Open-source contributions
+  - Open-sourced :
+    - Developed my own MCP for personal use and open-sourced it : https://github.com/saisudhir14/linkedin-mcp-search
+    - Developed Voice AI Agents using Langchain SDK, Cartesia AI, Assembly AI : https://github.com/saisudhir14/ai-voice-agent
   <br>
 
 ## 📈 Contributions
@@ -66,10 +68,10 @@ Feel free to explore my repositories and check out my code. I am always open to 
   - [Tableau Public visualizations](https://public.tableau.com/app/profile/sudhirdontha/) : I have shared my Tableau learnings here in this space.
 -->
 
-<b> My Latest Blog Posts on Hashnode👇</b> 
+<!-- <b> My Latest Blog Posts on Hashnode👇</b> 
 <br>
 <!-- HASHNODE_BLOG:START -->
-
+<!--
 - [How does Microsoft Azure work?](https://sudhirdontha.hashnode.dev/how-does-microsoft-azure-work-ckq9wrc3f01tvm0s1960ge1u1)
 - [What is IAM? 
 AWS Cloud](https://sudhirdontha.hashnode.dev/what-is-iam-aws-cloud-ckiue2r7g0emr33s11ja68kdn)
@@ -77,7 +79,9 @@ AWS Cloud](https://sudhirdontha.hashnode.dev/what-is-iam-aws-cloud-ckiue2r7g0emr
 part 2!](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-2-ckisuh7ii05cb33s12bgmavyi)
 - [PWA in brief! (Progressive Web App)
 part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1go6v4cqh)
-![image](https://user-images.githubusercontent.com/55187887/230750277-9604e5f6-354a-4629-8d61-867bf4f1fcb1.png)
+![image](https://user-images.githubusercontent.com/55187887/230750277-9604e5f6-354a-4629-8d61-867bf4f1fcb1.png) 
+
+-->
 
 <!--
 ## 🛠️ Technologies I Use

@@ -13,7 +13,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer skilled in Frontend, FullStack, DB & Cloud. My expertise spans across multiple technologies and domains, including Go, HTML, CSS, JavaScript, and React. I hold a Master's degree in Information Systems with a specialization in Business Data Analytics, complemented by a Bachelor's in Computer Science.
 
-I'm always active here on this platform, [please feel free to raise an issue or ask me here, ](https://github.com/saisudhir14/ama/issues/new) thank you!
+I'm always active here on this platform, [please feel free to raise an issue or ask me here](https://github.com/saisudhir14/ama/issues/new) thank you!
 
 
 ##  About Me

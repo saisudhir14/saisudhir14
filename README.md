@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-## Hey 👋, I'm Sai Sudheer and you've reached my Dev space on the WWW :)
+## Hello 👋, I'm Sai Sudheer and you've reached my Dev space on the WWW :)
 <!---
 # 🌟 Hi, I'm [Your Name] 🌟--->
 
@@ -18,7 +18,7 @@ I'm always active here on this platform, [please feel free to raise an issue or 
 
 ##  About Me
 
-- **🔧 Technologies & Skills:**
+- Technologies & Skills:
   - **Backend Programming :** Go(Golang), Java, JavaScript
   - **Frontend:** HTML, CSS, React, TypeScript
   - **AI:** MCP, Cursor, Claude, Prompt Engineering, Langchain
@@ -26,7 +26,7 @@ I'm always active here on this platform, [please feel free to raise an issue or 
   - **Version Control:** Git, GitHub
   - **Cloud:** GCP, Azure, AWS
 
-- **🎓 Education:**
+- Education:
   - **Master of Science in Information Systems**
   - **Bachelor's in Computer Science**
 <!--
@@ -34,7 +34,7 @@ I'm always active here on this platform, [please feel free to raise an issue or 
   - **5+ years** in IT, with a strong background in both frontend and backend development.
   - Volunteered with [Firm Name] to develop and maintain React-based frontend applications.
 -->
-- **🌍 Interests:**
+- Interests:
   - Exploring new technologies and tools like Cursor, LLM's, Hugging Face
   - Data-driven decision making
   - Open-sourced :
@@ -42,7 +42,7 @@ I'm always active here on this platform, [please feel free to raise an issue or 
     - Developed Voice AI Agents using Langchain SDK, Cartesia AI, Assembly AI : https://github.com/saisudhir14/ai-voice-agent
   <br>
 
-## 📈 Contributions
+## Contributions
 
 My contributions at TTEC : http://github.com/saisudheer-dontha
 
@@ -99,7 +99,7 @@ part-1](https://sudhirdontha.hashnode.dev/pwa-in-brief-part-1-ckisschlk04t433s1g
 - **Email:** [your-email@example.com]
 - **Twitter:** [@YourTwitterHandle](link-to-your-twitter-profile)
 -->
-Thank you for visiting my profile! 🌟
+Thank you for visiting my profile!!
 
 
 <!--

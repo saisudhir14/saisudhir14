@@ -19,11 +19,11 @@ I'm always active here on this platform, [please feel free to raise an issue or 
 ##  About Me
 
 - Technologies & Skills:
-  - **Backend Programming :** Go(Golang), Java, JavaScript
+  - **Backend Programming :** Python,Go(Golang), Java, JavaScript
   - **Frontend:** HTML, CSS, React, TypeScript
   - **AI:** MCP, Cursor, Claude, Prompt Engineering, Langchain
-  - **Data Analytics:** SQL, Python
-  - **Version Control:** Git, GitHub
+  - **Data Analytics:** PostgreSQL,MySQL, NoSQL,
+  - **Version Control:** Git, GitHub, Gitlab, Bitbucket
   - **Cloud:** GCP, Azure, AWS
 
 - Education:

@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer skilled in Fron
 
 I'm always active here on this platform, [please feel free to raise an issue or ask me here](https://github.com/saisudhir14/ama/issues/new) thank you!
 
+📝 I write about what I learn on my blog: **[saisudhir14.github.io](https://saisudhir14.github.io)**
+
 
 ##  About Me
 
@@ -208,10 +210,14 @@ Thank you for visiting my GitHub profile. I hope you find my projects and contri
 -->
 
 <!-- HASHNODE_BLOG:END -->
-<!--## My Latest Blog Posts on Dev.to👇 -->
-<!--BLOG-POST-LIST:START-->
-<!--[![Latest blog post workflow](https://github.com/saisudhir14/saisudhir14/actions/workflows/blog_devto.yml/badge.svg)](https://github.com/saisudhir14/saisudhir14/actions/workflows/blog_devto.yml) -->
-<!--BLOG-POST-LIST:END-->
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Why I Started Writing About What I Learn](https://saisudhir14.github.io/blog/hello-world/)
+- [How This Blog Works](https://saisudhir14.github.io/blog/how-this-blog-works/)
+<!-- BLOG-POST-LIST:END -->
+
+[More posts on my blog ›](https://saisudhir14.github.io)
 <!--
 <html>
  <a href="https://linkedin.com/in/saisudhir14"> LinkedIn -->

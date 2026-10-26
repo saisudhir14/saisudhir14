@@ -213,6 +213,7 @@ Thank you for visiting my GitHub profile. I hope you find my projects and contri
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starting a Dictionary](https://saisudhir14.github.io/blog/learning-the-ai-coding-dictionary/)
 - [Why I Started Writing About What I Learn](https://saisudhir14.github.io/blog/hello-world/)
 - [How This Blog Works](https://saisudhir14.github.io/blog/how-this-blog-works/)
 <!-- BLOG-POST-LIST:END -->
